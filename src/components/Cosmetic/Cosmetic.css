@@ -1,0 +1,8 @@
+.product {
+  border: none;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 0.7rem;
+  background-color: rebeccapurple;
+  color: white;
+}

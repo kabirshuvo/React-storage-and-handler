@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Lipstick",
+    "price": 9.99,
+    "brand": "Maybelline"
+  },
+  { 
+    "id": 2, 
+    "name": "Mascara", 
+    "price": 12.99, 
+    "brand": 
+    "L'Oreal" 
+},
+  { 
+    "id": 3, 
+    "name": "Foundation", 
+    "price": 15.99, 
+    "brand": "Revlon" 
+},
+  {
+    "id": 4,
+    "name": "Eyeshadow Palette",
+    "price": 24.99,
+    "brand": "Urban Decay"
+  },
+  { 
+    "id": 5, 
+    "name": "Blush", 
+    "price": 8.99, "brand": 
+    "Covergirl" 
+},
+  { 
+    "id": 6, 
+    "name": "Lip Gloss", 
+    "price": 6.99, 
+    "brand": "NYX" 
+},
+  { 
+    "id": 7, 
+    "name": "Eyeliner", 
+    "price": 10.99, 
+    "brand": "Rimmel" 
+},
+  {
+    "id": 8,
+    "name": "Contour Kit",
+    "price": 19.99,
+    "brand": "Anastasia Beverly Hills"
+  },
+  {
+    "id": 9,
+    "name": "Highlighter",
+    "price": 13.99,
+    "brand": "Physicians Formula"
+  },
+  { 
+    "id": 10, 
+    "name": "Brow Pencil", 
+    "price": 7.99, 
+    "brand": "Milani" }
+]
