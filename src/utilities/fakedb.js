@@ -29,7 +29,7 @@ const removeFromDb = id => {
             const shoppingCart = JSON.parse(storedCart);
             if(id in shoppingCart){
                 delete shoppingCart[id];
-                localStorage.setItem('shopping-crt', JSON.stringify(shoppingCart));
+                localStorage.setItem('shopping-cart', JSON.stringify(shoppingCart));
             }
         }
 }
